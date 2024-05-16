@@ -23,6 +23,7 @@ options:
     clear-output-folder: true
     model-namespace: false
     flavor: azure
+    generate-convenience-methods: false
   "@azure-tools/typespec-ts":
     package-dir: "azure-appconfiguration-rest"
     generateMetadata: true
