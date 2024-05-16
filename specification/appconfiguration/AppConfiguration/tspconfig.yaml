@@ -26,6 +26,7 @@ options:
     flavor: azure
     generate-convenience-methods: false
     existing-project-folder: C:/Development/AzureSDK/azure-sdk-for-net-fork/sdk/appconfiguration/Azure.Data.AppConfiguration/src/Generated
+    use-model-reader-writer: true
   "@azure-tools/typespec-ts":
     package-dir: "azure-appconfiguration-rest"
     generateMetadata: true
