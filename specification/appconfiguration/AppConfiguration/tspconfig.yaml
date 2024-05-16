@@ -20,7 +20,7 @@ options:
   "@azure-tools/typespec-csharp":
     package-dir: "Azure.Data.AppConfiguration"
     namespace: "{package-dir}"
-    clear-output-folder: true
+    clear-output-folder: false
     model-namespace: false
     flavor: azure
     generate-convenience-methods: false
