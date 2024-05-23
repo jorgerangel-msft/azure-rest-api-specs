@@ -24,7 +24,7 @@ using TypeSpec.Versioning;
   "{endpoint}",
   "App Configuration service endpoint",
   {
-    endpoint: url,
+    endpoint: string,
   }
 )
 @doc("Azure App Configuration REST API")
