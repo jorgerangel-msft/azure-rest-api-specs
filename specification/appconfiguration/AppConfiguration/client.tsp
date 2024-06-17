@@ -7,3 +7,5 @@ using AzureAppConfiguration;
 namespace SdkCustomizations;
 
 @@clientName(Error, "AppConfigError", "python");
+@@clientName(SnapshotStatus, "ConfigurationSnapshotStatus", "csharp");
+@@clientName(AzureAppConfiguration, "ConfigurationClient", "csharp");
