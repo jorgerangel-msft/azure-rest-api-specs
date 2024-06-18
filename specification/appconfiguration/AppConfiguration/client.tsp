@@ -10,4 +10,4 @@ namespace SdkCustomizations;
 @@clientName(SnapshotStatus, "ConfigurationSnapshotStatus", "csharp");
 @@clientName(AzureAppConfiguration, "ConfigurationClient", "csharp");
 
-@@access(AzureAppConfiguration.CheckKeys, "internal", "csharp");
+@@access(AzureAppConfiguration.checkKeys, "internal", "csharp");
