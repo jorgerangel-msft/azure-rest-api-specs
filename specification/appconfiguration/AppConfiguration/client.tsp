@@ -8,5 +8,5 @@ namespace SdkCustomizations;
 
 @@clientName(Error, "AppConfigError", "python");
 @@clientName(SnapshotStatus, "ConfigurationSnapshotStatus", "csharp");
-@@clientName(KeyValue, "ConfigurationClient", "csharp");
+@@clientName(KeyValue, "ConfigurationSetting", "csharp");
 @@clientName(AzureAppConfiguration, "ConfigurationClient", "csharp");
