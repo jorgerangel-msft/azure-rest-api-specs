@@ -25,6 +25,7 @@ using TypeSpec.Versioning;
   "App Configuration service endpoint",
   {
     endpoint: string,
+    syncToken: string,
   }
 )
 @doc("Azure App Configuration REST API")
