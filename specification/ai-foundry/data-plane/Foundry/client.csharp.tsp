@@ -112,7 +112,7 @@ namespace Azure.AI.Projects;
 // Models
 @@clientName(Models.getVersion, "getModelVersion", "csharp");
 @@clientName(Models.listVersions, "listModelVersions", "csharp");
-@@clientName(Models.listLatest, "listModelVersions", "csharp");
+//@@clientName(Models.listLatest, "listModelVersions", "csharp");
 @@clientName(Models.deleteVersion, "deleteModelVersion", "csharp");
 @@clientName(Models.createOrUpdateVersion, "updateModelVersion", "csharp");
 @@clientName(Models.createAsync, "createModelVersionAsync", "csharp");
