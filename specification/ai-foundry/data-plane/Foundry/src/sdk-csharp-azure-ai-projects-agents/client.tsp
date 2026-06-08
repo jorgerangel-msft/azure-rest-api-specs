@@ -18,6 +18,8 @@ namespace Azure.AI.Projects {
   @@usage(ApiError, Usage.output);
   @@access(ApiError, Access.public);
 
+  @@access(OpenAI.ToolType, Access.internal);
+
   // --------------------------------------------------------------------------------
   // Fix the xref.
   // --------------------------------------------------------------------------------
